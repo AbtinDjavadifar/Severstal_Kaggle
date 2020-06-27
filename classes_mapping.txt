@@ -1,8 +1,0 @@
-{
-  "classes_mapping": {
-    "type1": 50,
-    "type2": 100,
-    "type3": 150,
-    "type4": 200
-  }
-}
